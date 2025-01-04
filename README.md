@@ -1,1 +1,1 @@
-Hello all! This is another task of my Cybersecurity Internship.This contains an html nikto report for metasploitable VM and the banner for a metaspolitable VM port using netcat.
+Hello all! This is another task of my Cybersecurity Internship.This contains the report of an openvas scan on metasploitable VM , html nikto report for metasploitable VM and the banner for a metaspolitable VM port using netcat.
